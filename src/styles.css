@@ -415,6 +415,10 @@ h3 {
   overflow: visible;
 }
 
+.client-chip .chatgpt-logo {
+  color: var(--text);
+}
+
 .client-chip span {
   min-width: 0;
   overflow: hidden;
